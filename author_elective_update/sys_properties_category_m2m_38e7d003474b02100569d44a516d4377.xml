@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="DELETE">
+        <category display_value="NeedIt Properties">02ef08c3470b02100569d44a516d4372</category>
+        <order>200</order>
+        <property display_value="x_58872_needit.autoCloseOverdue" name="x_58872_needit.autoCloseOverdue">db9114c7470b02100569d44a516d43bf</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-01 17:02:11</sys_created_on>
+        <sys_id>38e7d003474b02100569d44a516d4377</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.autoCloseOverdue.NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_38e7d003474b02100569d44a516d4377</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-01 17:02:11</sys_updated_on>
+    </sys_properties_category_m2m>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>683e456cdb5ef958f697684e13961981</instance_id>
+        <instance_name>dev199799</instance_name>
+        <name>sys_properties_category_m2m_38e7d003474b02100569d44a516d4377</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m"><sys_properties_category_m2m action="INSERT_OR_UPDATE"><category display_value="NeedIt Properties">02ef08c3470b02100569d44a516d4372</category><order>200</order><property display_value="x_58872_needit.autoCloseOverdue" name="x_58872_needit.autoCloseOverdue">db9114c7470b02100569d44a516d43bf</property><sys_class_name>sys_properties_category_m2m</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-01 17:02:11</sys_created_on><sys_id>38e7d003474b02100569d44a516d4377</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit.autoCloseOverdue.NeedIt Properties</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_properties_category_m2m_38e7d003474b02100569d44a516d4377</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-01 17:02:11</sys_updated_on></sys_properties_category_m2m></record_update>]]></payload>
+        <payload_hash>1284431807</payload_hash>
+        <record_name>x_58872_needit.autoCloseOverdue.NeedIt Properties</record_name>
+        <reverted_from/>
+        <source>19a657fe47c302100569d44a516d436e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-01 17:02:11</sys_created_on>
+        <sys_id>fce7d003474b02100569d44a516d4379</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1906f3f339b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-01 17:02:11</sys_updated_on>
+        <type>Category Property</type>
+        <update_guid>f0e7d003894b0210ad0c0c19e7669c79</update_guid>
+        <update_guid_history>f0e7d003894b0210ad0c0c19e7669c79:1284431807</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-01 17:02:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties_category_m2m">sys_properties_category_m2m</sys_db_object>
+        <sys_id>533994c688e649d89d837531db185f29</sys_id>
+        <sys_metadata>38e7d003474b02100569d44a516d4377</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.autoCloseOverdue.NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_properties_category_m2m_38e7d003474b02100569d44a516d4377</sys_update_name>
+        <sys_update_version display_value="sys_properties_category_m2m_38e7d003474b02100569d44a516d4377">fce7d003474b02100569d44a516d4379</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-01 17:02:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
